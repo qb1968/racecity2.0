@@ -59,7 +59,7 @@ function Header() {
 
             <ul style={styleMenu}>
                  <li><Link to="/">{isAdmin ? 'Products' : 'Shop'}</Link></li>
-                <li><Link to="/services">{isAdmin ? 'Services' : 'Services'}</Link></li>
+                <li><Link to="/services">{isAdmin ? 'Services' : 'Pressing Services'}</Link></li>
                 <li><Link to="/contact">{isAdmin ? 'Contact' : 'Contact'}</Link></li>
                
 
