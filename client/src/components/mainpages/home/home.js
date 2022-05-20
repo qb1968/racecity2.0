@@ -23,10 +23,10 @@ const images = [
 
     return (
       <Jumbotron>
-        <div>
+        <div class='storefront'>
           <img
             className="store"
-            src="https://res.cloudinary.com/qb1968/image/upload/v1630301722/gvohn5azakytwhlccuk3.jpg"
+            src="https://res.cloudinary.com/dzofduj2h/image/upload/v1652972241/2654524588039149865_pyeaej.jpg"
             alt=""
           />
         </div>

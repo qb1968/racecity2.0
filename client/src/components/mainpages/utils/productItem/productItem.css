@@ -44,7 +44,7 @@
     width: 50%;
     text-align: center;
     text-transform: uppercase;
-    color: white;
+    color: black;
     font-weight: 600;
     letter-spacing: 2px;
     padding: 6px;
@@ -53,11 +53,11 @@
     color: black;
 }
 #btn_buy{
-    background: #555;
+    background: #f6b210;
     margin-right: 5px;
 }
 #btn_view{
-    background: #3f51b5;
+    background: #da1900;
     margin-left: 5px;
 }
 .product_card input{

@@ -1,6 +1,14 @@
 .store{
-    width: 100%;
+    display: flex;
+    align-items: center;
+    width: 75%;
     height: 50vh;
+}
+
+.storefront{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.856);
 }
 
 .pics {
@@ -37,6 +45,7 @@ text-align: center;
 }
 
 button.btn {
-    background-color:#3f51b5;
+    background-color:#da1900;
+    color:#f6b210;
     border-radius: 3px;
 }

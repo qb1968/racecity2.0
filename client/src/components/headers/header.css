@@ -7,24 +7,24 @@ header{
     justify-content: space-around;
     align-items: center;
     border-bottom: 1px solid #ddd;
-    background-color: #3f51b5;
+    background-color: #da1900;
 }
 header .logo{
     flex: 1;
     
 }
 header .logo a:hover{
-    color:white;
+    color:black;
 }
 header a{
     text-transform: uppercase;
     font-weight: bold;
-    color: rgb(0, 0, 0);
+    color: #f6b210;
     margin-left: 10px;
     text-decoration: none;
 }
  header ul li a:hover {
-   color:white;
+   color:black;
 }
 header ul li{
     display: inline-block;
